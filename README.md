@@ -1,3 +1,7 @@
+<img width="1636" height="137" alt="image" src="https://github.com/user-attachments/assets/1a8820ec-d4ae-4e2a-832f-9a7356104247" />
+
+---
+
 # Jhonson Navigation Bar
 
 Feito durante a aula de programação front-end  
@@ -11,6 +15,3 @@ O escolhido por mim foi o navigation bar, inspirado no site da Jhonson&Jhonson (
 - CSS
   - (SCSS)
 
----
-
-<img width="1636" height="137" alt="image" src="https://github.com/user-attachments/assets/1a8820ec-d4ae-4e2a-832f-9a7356104247" />
